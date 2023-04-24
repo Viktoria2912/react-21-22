@@ -9,3 +9,7 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root'),
 );
+
+// import React from 'react';
+// const element = React.createElement('div');
+// console.log(element);
